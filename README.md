@@ -1,5 +1,5 @@
 
-🌍  Senior Front-end Developer.
+🌍 Senior Front-end Developer.
 <br/>
 
 ### Skills
@@ -15,7 +15,7 @@
   </a>
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shehxad-hussain&show_icons=true&locale=en" alt="shehxad-hussain" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shehxad-hussain&show_icons=true&locale=en" alt="shahxad-hussain" /></p>
 
 
 
