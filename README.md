@@ -1,5 +1,5 @@
 
-🌍  Senior Front-end Developer and UI UX Designer.
+🌍  Senior Front-end Developer.
 <br/>
 
 ### Skills
