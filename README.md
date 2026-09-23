@@ -1,4 +1,4 @@
-# 🌐 Shehzad Hussain | Creative Frontend Developer 🌐
+# 🌐 Shahzad Hussain | Creative Frontend Developer 🌐
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&height=80&lines=⚡+Frontend+Developer+%7C+3%2B+Years+Experience;🎨+UI%2FUX+Enthusiast+%7C+Pixel-Perfect+Interfaces;🚀+React+%7C+Next.js+%7C+TypeScript+Specialist;💡+Crafting+Blazing-Fast+Web+Experiences;🌟+Responsive+Design+%7C+Web+Performance+Expert;✨+Turning+Designs+into+Living+Interfaces)](https://git.io/typing-svg)
 
