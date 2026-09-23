@@ -1,7 +1,8 @@
-# 💫 About Me:
-<br>🚀 Senior React & Next.js Frontend Developer specializing in **SaaS platforms, AI-powered MVPs, and Figma-to-Production web applications**.<br><br>💼 4+ years of professional experience building scalable, responsive, and high-performance web applications using **React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, and Material UI**.<br><br>🏆 Successfully delivered **50+ client projects**, collaborated with cross-functional teams, and mentored junior developers while maintaining clean, production-ready code.<br><br>🌱 Currently exploring **AI Agents, MCP, LLM integrations, and modern AI-powered web development** to build next-generation applications.<br><br>🤝 Open to collaborating on **Open Source, SaaS, Startup, and AI-driven projects** that solve real-world problems.<br><br>⚡ Passionate about creating **fast, scalable, SEO-friendly, and user-centric web applications** with modern frontend technologies.
+# 🌐 Hell Coder | Creative Frontend Developer 🌐
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&height=80&lines=⚡+Frontend+Developer+%7C+3%2B+Years+Experience;🎨+UI%2FUX+Enthusiast+%7C+Pixel-Perfect+Interfaces;🚀+React+%7C+Next.js+%7C+TypeScript+Specialist;💡+Crafting+Blazing-Fast+Web+Experiences;🌟+Responsive+Design+%7C+Web+Performance+Expert;✨+Turning+Designs+into+Living+Interfaces)](https://git.io/typing-svg)
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shahzadglt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shehxadhussain) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shehzad_dev) 
